@@ -5,3 +5,7 @@
   * Change the background color / font / text color
   * Include a link to website
   * Add an image to your website
+  
+ ## Helpful Resources
+  * https://www.w3schools.com/
+  * https://www.khanacademy.org/computing/computer-programming/html-css
